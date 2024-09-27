@@ -5,3 +5,6 @@ mreže kako bi prepoznao i kategorizovao različite vrste voća i povrća.
 Korišćenjem algoritama dubokog učenja, naš projekat ima za cilj da automatizuje
 proces klasifikacije, čime se olakšavaju zadaci koji su do sada zavisili
 od ljudske procene.
+
+
+Fruits and vegetables dataset: https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition
